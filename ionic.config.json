@@ -6,5 +6,7 @@
     "www/build/**/*",
     "www/index.html",
     "!www/lib/**/*"
-  ]
+  ],
+  "integrations": {},
+  "type": "ionic1"
 }
